@@ -1,0 +1,6 @@
+bleak
+numpy
+pandas
+joblib
+pyautogui
+scikit-learn
