@@ -1,0 +1,6 @@
+PyQt6
+pandas
+numpy
+pyqtgraph
+bleak
+PyOpenGL
