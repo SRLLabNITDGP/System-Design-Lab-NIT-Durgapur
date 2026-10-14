@@ -2,6 +2,12 @@
 
 Head-motion controlled BLE mouse system using **ESP32-S3**, **BNO085 IMU** and a state-driven interaction engine.
 
+## Prototype
+
+![HAT V1 prototype](Images/HAT-V1-Prototype.jpg)
+
+*HAT V1 cap prototype with the sensing and embedded electronics mounted on the brim.*
+
 ## Capabilities
 
 - Cursor movement
@@ -30,7 +36,7 @@ Head-motion controlled BLE mouse system using **ESP32-S3**, **BNO085 IMU** and a
 - Adafruit BusIO
 - ESP32-BLE-Mouse
 
-## Files in the V1 source package
+## Files in the original V1 source package
 
 - `clicks_scroll_drag_modular03.ino` — embedded BLE mouse and gesture engine
 - `Recorder_27_03c.py` — desktop recorder and visualisation utility
